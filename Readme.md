@@ -47,8 +47,14 @@ This project provides a collection of well-known algorithms implemented in Pytho
 
 To get started with this repository, clone it to your local machine using:
 
+with ssh
 ```bash
-git clone https://github.com/yourusername/famous-algorithms.git
+git clone git@github.com:yasharzavary/algorithm-design.git
+```
+
+with http
+```bash
+git clone https://github.com/yasharzavary/algorithm-design.git
 ```
 
 ## Usage
@@ -85,8 +91,8 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 For any questions or suggestions, please contact:
 
-- **Name**: [yashar zavary rezaie]
-- **Email**: [zavaryyashar009@gmail.com]
+- **Name**: yashar zavary rezaie
+- **Email**: zavaryyashar009@gmail.com
 - **GitHub**: [yasharzavary](https://github.com/yasharzavary)
 - **linkedIN**: [yashar zavary rezaie](https://www.linkedin.com/in/yashar-zavary-rezaie/)
 ---
