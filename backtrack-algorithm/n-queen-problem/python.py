@@ -18,7 +18,7 @@ def solve(n: int, i: int = 0, queens: list = []):
             one form for n-queen answer
     """
     if validator(queens):
-        if i == n: return True
+        if i == n: return True 
         for j in range(n):
             queens.append(j)
             find = solve(n, i+1, queens)
