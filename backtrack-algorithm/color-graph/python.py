@@ -8,7 +8,7 @@ def validator(m, c, x):
 
 def solve(matrix, colors=[], max_color=1):
     x=0
-    if len(matrix) == len(colors):return colorsif
+    if len(matrix) == len(colors):return colors
     for x in range(max_color):
         if validator(matrix, colors, x):
             return solve(matrix, colors+[x], max_color)
